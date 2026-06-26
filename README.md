@@ -3,17 +3,26 @@
 An Arduino project using a passive buzzer module to play four classic melodies in a loop. Unlike an active buzzer, the passive buzzer accepts frequency signals — letting you play real music!
 
 
-📦 Hardware Required
-Component	Quantity
-Arduino UNO	1
-Active Buzzer Module	1
-USB Cable	1
-Jumper Wires	5
-🔌 Wiring
-Buzzer Pin	Arduino Pin
-S (Signal)	Digital 3
-– (Negative)	GND
-+ (Positive)	5V
+## 📦 Hardware Required
+
+| Component | Quantity |
+|---|---|
+| Arduino UNO | 1 |
+| Passive Buzzer Module | 1 |
+| USB Cable | 1 |
+| Jumper Wires | 3 |
+
+---
+
+## 🔌 Wiring
+
+| Buzzer Pin | Arduino Pin |
+|---|---|
+| S (Signal) | Digital 3 |
+| – (Negative) | GND |
+| + (Positive) | 5V |
+
+---
 
 🎼 Melodies Included
 
