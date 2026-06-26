@@ -27,10 +27,10 @@ An Arduino project using a passive buzzer module to play four classic melodies i
 🎼 Melodies Included
 
 #SongDuration
-1🎂 Happy Birthday~10 sec
-2⭐ Twinkle Twinkle Little Star~10 sec
-3🔔 Jingle Bells (chorus)~10 sec 
-4🎶 Ode to Joy~10 sec 
+1🎂 Happy Birthday 10 sec
+2⭐ Twinkle Twinkle Little Star 10 sec
+3🔔 Jingle Bells (chorus) 10 sec 
+4🎶 Ode to Joy 10 sec 
 
 All four play back-to-back with a 1-second pause between each, then loop forever.
 
